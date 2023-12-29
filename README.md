@@ -17,7 +17,4 @@
   <a> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"> </a>
   <a href = "mailto:antonioagnolin@proton.me"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/antonio-de-oliveira-agnolin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
- 
-  ![Snake animation](https://github.com/AntonioAgnolin/AntonioAgnolin/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
