@@ -1,19 +1,23 @@
 ### Hello! 👋 My name is Antônio
-- 💻 Learning C and Java
-- 📚 Studies at UniCesumar
-- 🔎 Works at ICETI 
 
-<!--
-**AntonioAgnolin/AntonioAgnolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/AntonioAgnolin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioAgnolin&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAgnolin&layout=compact&langs_count=7&theme=ambient_gradient"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+<div>
+  <a> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"> </a>
+  <a href = "mailto:antonioagnolin@proton.me"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/antonio-de-oliveira-agnolin/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+ 
+  ![Snake animation](https://github.com/AntonioAgnolin/AntonioAgnolin/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
