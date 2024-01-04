@@ -25,7 +25,7 @@
 
 <div align='left'>
  <a href="https://github.com/AntonioAgnolin">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonioAgnolin&repo=ProgrammingRoadmap&cache_seconds=86400&theme=ambient_gradient"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonioAgnolin&repo=ProgrammingRoadmap&cache_seconds=86400&theme=ambient_gradient"/>
 </div>
 
 ##
