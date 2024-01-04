@@ -1,5 +1,9 @@
 ### Hello! 👋 My name is Antônio
 
+##
+
+### 👨‍💻 Github Stats
+
 <div align="center">
   <a href="https://github.com/AntonioAgnolin">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AntonioAgnolin&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
@@ -10,9 +14,18 @@
 
 ### 💻 Languages
 
-<div style="display: inline_block">
+<div align='left'">
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+##
+
+### 🗃️ Main Repositories
+
+<div align='left'>
+ <a href="https://github.com/AntonioAgnolin">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonioAgnolin&repo=ProgrammingRoadmap&cache_seconds=86400&theme=ambient_gradient"/>
 </div>
 
 ##
@@ -20,8 +33,8 @@
 ### 💿 Tools
 
 <div>
-  <a> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Firefox_Hardened-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> </a>
+  <a> <img src="https://img.shields.io/badge/Zorin_OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"> </a>
+  <a> <img src="https://img.shields.io/badge/Hardened_Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> </a>
   <a> <img src="https://img.shields.io/badge/VSCodium-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
 
 ##
